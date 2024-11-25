@@ -18,6 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 homeroute detail to route /"home"
+card details completed 
+ad to cart done ✅
 
 
 domain.   Info@cherishsocialcare.co.uk
