@@ -28,3 +28,12 @@ domain.   Info@cherishsocialcare.co.uk
 
 
 make vsState done as soon as possiable 
+
+
+done routes completely ASAP 
+
+
+
+CLIENT Is waiting for the roting pages 
+must be done before 1600HRS
+
