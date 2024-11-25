@@ -35,5 +35,5 @@ done routes completely ASAP
 
 
 CLIENT Is waiting for the roting pages 
-must be done before 1600HRS
-
+must be done before 1600HRSs
+send everyone their work virat 
